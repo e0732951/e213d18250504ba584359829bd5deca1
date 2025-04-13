@@ -9,6 +9,6 @@ setup(
     author_email='e0732951.u.nus.edu',
     packages=find_packages(),
     install_requires=[
-        'numpy>=2.0.2',
+        
     ],
 )
