@@ -1,1 +1,1 @@
-from module import e213d18250504ba584359829bd5deca1
+from .module import e213d18250504ba584359829bd5deca1
