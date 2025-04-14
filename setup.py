@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='e213d18250504ba584359829bd5deca1',  
-    version='1.0.5',
+    version='1.0.6',
     description='An example package',
     url='https://github.com/e0732951/e213d18250504ba584359829bd5deca1/',
     author='javerngoh',
